@@ -1,6 +1,6 @@
 # Organisations promoting open data or open-source software
 
-Title: Open Data Hong Kong
+## Open Data Hong Kong
 
 Description: Type: non-profit organization
 
@@ -8,9 +8,9 @@ Link: <http://www.opendatahk.com/>
 
 Link2: <https://github.com/odhk>
 
-\
 
-Title: Hong Kong Government Annual Open Data Plan
+
+## Hong Kong Government Annual Open Data Plan
 
 Description: Publications of the Government's Annual Open Data Plans. 
 
@@ -18,28 +18,28 @@ Remarks: No actual data available.
 
 Link: <https://www.ogcio.gov.hk/en/about_us/annual_open_data_plans/>
 
-\
 
-Title: Open Source Hong Kong
+
+## Open Source Hong Kong
 
 Description: Official site of the organization Open Source Hong Kong
 
 Link: <https://opensource.hk/>
 
-\
 
-Title: g0vhk
+
+## g0vhk
 
 Description: Group promoting Open Source projects and Hackathon in Hong Kong
 
 Link: <https://g0vhk.io/>
 
-\
 
-Title: Global Open Data Index (Hong Kong)
+
+## Global Open Data Index (Hong Kong)
 
 Description: Ranking of Hong Kong for Open Data Index
 
 Link: <https://index.okfn.org/place/hk/>
 
-\
+
