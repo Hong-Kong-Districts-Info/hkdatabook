@@ -20,4 +20,9 @@ hong-kong-census-and-statistics-department-1
 hkdatasets-2
 legco-1
 organisations-promoting-open-data-or-open-source-software
+open-data-hong-kong
+hong-kong-government-annual-open-data-plan
+open-source-hong-kong
+g0vhk
+global-open-data-index-hong-kong
 final-words
