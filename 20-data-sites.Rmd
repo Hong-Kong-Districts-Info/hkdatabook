@@ -1,0 +1,33 @@
+# Sites with datasets and APIs
+
+Title: Data.gov.hk
+
+Description: Publicly available datasets provided by the Hong Kong Government
+
+Link: <https://data.gov.hk/en/>
+
+\
+Title: Esrichina Hong Kong Open Data
+
+Description: Open Geo-spatial data in Hong Kong
+
+Link: <https://opendata.esrichina.hk/>
+
+\
+Title: Hong Kong Census and Statistics Department
+
+Link: <https://www.censtatd.gov.hk/home/>
+
+\
+Title: hkdatasets
+
+Description: GitHub repository for the hkdatasets R data package
+
+Link: <https://github.com/hong-Kong-Districts-Info/hkdatasets>
+
+\
+Title: legco
+
+Description: GitHub repository for accessing Hong Kong LegCo API
+
+Link: <https://github.com/elgarteo/legco>
