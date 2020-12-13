@@ -40,12 +40,12 @@ jobs:
          # Artifact name
          name: _book # optional
          # Destination path
-         path: / # optional
-     # - name: Deploy to GitHub Pages
-     #  uses: Cecilapp/GitHub-Pages-deploy@master
-     #  env:
-     #     EMAIL: ${{ secrets.EMAIL }}               # must be a verified email
-     #     GH_TOKEN: ${{ secrets.GH_PAT }} # https://github.com/settings/tokens
-     #     BUILD_DIR: _book/                     # "_site/" by default
+         path: _docs # optional
+     - name: Deploy to GitHub Pages
+       uses: Cecilapp/GitHub-Pages-deploy@2.0.1 # New version has different API
+       env:
+          EMAIL: ${{ secrets.EMAIL }}               # must be a verified email
+          GH_TOKEN: ${{ secrets.GH_PAT }} # https://github.com/settings/tokens
+          BUILD_DIR: _docs/                     # "_site/" by default
     
  
