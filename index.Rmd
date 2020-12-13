@@ -12,13 +12,11 @@ github-repo: hong-kong-districts-info/hkdatabook
 description: "This is a collaborative book for documenting the data sources for working with projects that are related to Hong Kong."
 ---
 
-```{r}
-knitr::include_graphics("images/2560px-2019DC_election_map_by_official_party_affiliation.svg.png")
-```
-
 # Introduction
 
-This book is written _for_ (and hopefully in time, _by_) anyone who is interested in working with Hong Kong related data: researchers, analysts, journalists, students, data scientists, etc. This book / project is for you, if you are trying to answer the following questions:
+## Is this book for me?
+
+This book is written _for_ anyone who is interested in working with Hong Kong related data: researchers, analysts, journalists, students, data scientists, etc. If you are trying to answer the following questions, then this book is for you:
 
 - Where can I find open data sets or APIs in domain _X_? 
 - What open data sets already exist out there about domain _X_?
@@ -26,7 +24,9 @@ This book is written _for_ (and hopefully in time, _by_) anyone who is intereste
 
 Of course, any subject with regard to domain _X_ should relate to topics in Hong Kong.  
 
-This project may seem an ambitious attempt in terms of _scope_, as there is plenty that is out there. However, the belief here is that **crowd-sourcing** would offer a solution here, as it has done for tremendously successful projects like **Wikipedia**, and generally other open-source communities like those for **R** and **Python**. 
+This project may seem an ambitious attempt in terms of _scope_, as there is plenty that is out there. However, the belief here is that **crowd-sourcing** would offer a solution here, as it has done for tremendously successful projects like **Wikipedia**, as well as other open-source communities like those for **R** and **Python**. 
+
+Our mission is to make data about Hong Kong easier to find and access. At the time of writing, the project authors (see [Hong Kong District Info](#about-hong-kong-districts-info)) have found it challenging to identify the right data sets for open-source data science and analytics projects, and this collaborative book was thus born as a side-product as we sought to create a single source of information on where all the data sources live.
 
 ## Contributing
 
@@ -40,6 +40,10 @@ We accept anything that falls under the below categories:
 - organizations or groups promoting any of the above
 
 ## About Hong Kong Districts Info
+
+```{r echo=FALSE}
+knitr::include_graphics("images/logo.png")
+```
 
 This book project was created by the [Hong Kong Districts Info](https://hong-kong-districts-info.github.io/) group. 
 

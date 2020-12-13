@@ -1,5 +1,8 @@
 # Demographics
 
-Title: Hong Kong Census and Statistics Department
+Most demographic data is provided and collected by the Hong Kong Census and Statistics department. However, the raw data is not typically available, and _samples_ of the raw data have to be purchased. Summarised data, e.g. cross-tables, are available for download, but require some manipulation for them to be practical, as these aren't typically available in a [tidy](https://vita.had.co.nz/papers/tidy-data.html) format.
+
+
+## Hong Kong Census and Statistics Department
 
 Link: <https://www.censtatd.gov.hk/home/>

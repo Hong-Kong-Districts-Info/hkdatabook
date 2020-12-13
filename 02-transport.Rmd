@@ -1,9 +1,23 @@
 # Transport {#transport}
 
-Title: Tom Tom Historical Traffic data 
+## hkdatasets
+
+Description: GitHub repository for the hkdatasets R data package
+
+This R package contains datasets that document traffic collisions and street names in Hong Kong.
+
+Link: <https://github.com/hong-Kong-Districts-Info/hkdatasets>
+
+## Hong Kong Geodata Store
+
+Website with datasets and API for geo-data in Hong Kong.
+
+Link: <https://geodata.gov.hk/gs/>
+
+## Tom Tom Historical Traffic data
 
 Description: Historical traffic data provided by Tom-Tom
 
 Link: <https://www.tomtom.com/en_gb/traffic-index/hong-kong-traffic/>
 
-Remarks: Unclear if raw data is available.
+Remarks: Unclear if raw data is available. 

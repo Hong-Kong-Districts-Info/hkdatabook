@@ -1,0 +1,9 @@
+# Social Media
+
+### LIHKGr
+
+Description: R package for scraping the LIHKG site
+
+This R package scrapes text data on LIHKG the (Hong Kong version of Reddit).
+
+Link: <https://github.com/justinchuntingho/LIHKGr>

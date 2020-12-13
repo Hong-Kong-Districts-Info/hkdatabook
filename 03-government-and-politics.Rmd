@@ -1,3 +1,17 @@
 # Government and Politics
 
-_Under construction_
+### hkdatasets
+
+Description: GitHub repository for the hkdatasets R data package
+
+This R package contains a dataset that documents all the District Councillors elected in  2019.
+
+Link: <https://github.com/hong-Kong-Districts-Info/hkdatasets>
+
+###  legco
+
+Description: GitHub repository for accessing Hong Kong LegCo API
+
+This R package enables accessing the Hong Kong LegCo API.
+
+Link: <https://github.com/elgarteo/legco>
