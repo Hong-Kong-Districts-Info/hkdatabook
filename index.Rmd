@@ -39,6 +39,19 @@ We accept anything that falls under the below categories:
 - packages or libraries
 - organizations or groups promoting any of the above
 
+## Sections
+
+This book is currently divided into the following sections:
+
+1. Demographics
+1. Transport
+1. Government and Politics
+1. Social Media
+1. Sites with datasets and APIs
+1. Organisations promoting open data and open source software
+
+Note that this book is in its early stages of development, and therefore the section structure are likely to change. If you have any feedback or comments, please [submit an issue on our GitHub repo](https://github.com/Hong-Kong-Districts-Info/hkdatabook/issues).
+
 ## About Hong Kong Districts Info
 
 ```{r echo=FALSE}
